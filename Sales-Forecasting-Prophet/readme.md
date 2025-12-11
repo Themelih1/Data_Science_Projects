@@ -1,4 +1,4 @@
-# 📈 Sales Forecasting with Facebook Prophet
+#  Sales Forecasting with Facebook Prophet
 
 ## Project Overview
 
@@ -6,7 +6,7 @@ This project implements a Time Series Forecasting model using the **Facebook Pro
 
 The complete end-to-end workflow, from raw data extraction via SQL to model validation and visualization, is documented in the accompanying [Notebook .ipynb](Notebook%20.ipynb).
 
-### 🎯 Objective
+###  Objective
 
 The primary goal is to generate reliable forecasts to support business operations, specifically for inventory planning and budget allocation:
 1.  Forecast the daily sales quantity for a future period (e.g., the next 12 months).
@@ -15,7 +15,7 @@ The primary goal is to generate reliable forecasts to support business operation
 
 ---
 
-### 🛠 Technology Stack
+###  Technology Stack
 
 | Category | Tools & Libraries | Purpose |
 | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ The primary goal is to generate reliable forecasts to support business operation
 
 ---
 
-### 🔬 Methodology and Analysis
+###  Methodology and Analysis
 
 #### 1. Data Preparation and SQL Aggregation
 The sales data was sourced from an aggregated SQL query designed to calculate the total item quantity sold (`y`) for each day (`ds`). This step demonstrates competence in handling data from its source, not just importing pre-cleaned files:
