@@ -1,5 +1,12 @@
 #  Sales Forecasting with Facebook Prophet
 
+
+
+### 🔗 Notebook'u Görüntüleme
+
+* **Directly see notebook link  GitHub :** [Notebook .ipynb](Notebook%20.ipynb) (Görselleştirme hatası verirse, alttaki linki kullanın.)
+* **Güvenilir Görüntüleyici (nbviewer):** [Notebook'u nbviewer'da Aç](https://nbviewer.org/github/Themelih1/Data_Science_Projects/blob/main/Sales-Forecasting-Prophet/Notebook%20.ipynb)
+
 ## Project Overview
 
 This project implements a Time Series Forecasting model using the **Facebook Prophet** library to predict future sales volume. The analysis leverages historical transactional data, with a focus on decomposing the time series into its core components: trend, weekly seasonality, yearly seasonality, and the impact of specific holidays.
